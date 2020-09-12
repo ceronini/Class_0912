@@ -1,5 +1,6 @@
 # Trying to Make this work
-[picture](C:\Users\Wizzy\Documents\GitHub\Class_0912\images)
-### Table of Contents
-* Text 
-* Image
+![picture](..\images\CE-Profile.jpg)
+## Table of Contents
+- [Text](./code) 
+- [Images](./image)
+`
